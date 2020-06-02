@@ -1,5 +1,5 @@
 Autor: Lukáš Klein
-Nazov: Blank
+Nazov: Náš majster
 Datum: 29/05/2020
 ----
 tento veľmi krátky 
@@ -7,8 +7,8 @@ tento veľmi krátky
 začal jadro článku
 ----
 verzia clanku cislo jedna o nasom majstrovi hovorí 
-že keď sa budeme učiť v škole tak sa nebudeme musieť
-učiť doma tak veľa aj keď ani Boh nevie či je to pravda
+že keď sa budeme čo najviac učiť doma a budeme predbehovať
+tak si môžeme v škole oddýchnuť, aj keď sa pri učiteľoch oddychuje ťažko
 ----
 
 
