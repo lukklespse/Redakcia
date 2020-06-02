@@ -10,9 +10,6 @@ verzia clanku cislo jedna o nasom majstrovi hovorí
 že keď sa budeme učiť v škole tak sa nebudeme musieť
 učiť doma tak veľa aj keď ani Boh nevie či je to pravda
 ----
-<<<<<<< HEAD:clanok1.txt
-=======
 finálny záver 
 clanku 1
 verzie2
->>>>>>> origin/develop_clanok1:clanok1V1.txt
